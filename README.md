@@ -1,14 +1,86 @@
-# Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+![alt text](images/banner.png "Title")
 
-As the maintainer of this project, please make a few updates:
+<br/>
+<br/>
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+# DevSquad Solution Accelerators
+
+Developed by the Microsoft GPS DevSquad Team, the DevSquad Solution Accelerators are different repositories that provide a set of tools and templates to help you accelerate your development process in varios context like DataOps, MLOps and DevSecOps. The DevSquad Solution Accelerators are designed to help you build solutions that are secure, scalable, and reliable. The DevSquad Solution Accelerators are built on top of the Microsoft Azure platform and are designed to be used with the Microsoft Azure DevOps platform or GitHub.
+
+<br/>
+<br/>
+
+
+## Summary Table of DevSquad Solution Accelerators
+Below is a summary list of the DevSquad Solution Accelerators:
+<br/>
+<br/>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Services or Architecture Reference</th>
+            <th>Link</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=9><b>DevSquad DevSecOp</b></td>
+            <td rowspan=9>In these workshops, you will learn how to build and deploy modern Cloud-Native apps based on reference arquitectures, supported by best practices of <a href="https://github.com/microsoft/code-with-engineering-playbook/blob/main/docs/ENG-FUNDAMENTALS-CHECKLIST.md">Software Engineering</a> and <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">Secure DevOps Practices</a>.  <br/>Reference architecture <a href="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">DevSecOps in Azure</a></td>
+            <td>Infrastructure as code, reference architecture: <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code">DevSecOps for infrastructure as code (IaC)</a></td>
+            <td><a href="https://github.com/oaviles/hello_iac">DevSquad IaC Accelerator</a></td>
+        </tr>
+        <tr>
+            <td>Deploy ASP.Net Code Application on Azure, reference architectures: <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">Deploy Web App on Azure</a></td>
+            <td><a href="https://github.com/oaviles/hello_appservice">DevSquad App Service Accelerator</a></td>
+        </tr>
+        <tr>
+            <td>Deploy Serverless Application on Azure, reference architectures: <a href="https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/serverless/cloud-automation">Deploy event driven architecture on Azure</a></td>
+            <td><a href="https://github.com/oaviles/hello_serverless">DevSquad Serverless Accelerator</a></td>
+        </tr>
+        <tr>
+            <td>Azure Spring Cloud, reference architecture: <a href="https://docs.microsoft.com/en-us/azure/architecture/example-scenario/blue-green-spring/blue-green-spring">Deployment for Applications on Azure Spring Cloud</a></td>
+            <td><a href="https://github.com/oaviles/hello_springcloud">DevSquad Spring Cloud Accelerator</a></td>
+        </tr>
+        <tr>
+            <td>Deploy Microservice on Azure Kubernetes Service, reference architecture: <a href="https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices">Deploy microservice on AKS</a></td>
+            <td><a href="https://github.com/oaviles/hello_cloud-native">DevSquad Kubernetes Accelerator</a></td>
+        </tr>
+        <tr>
+            <td>Azure Red Hat OpenShift, reference architecture: <a href="https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/azure-red-hat-openshift/landing-zone-accelerator">ARO Reference Architecture</a></td>
+            <td><a href="https://github.com/oaviles/hello_ARO">DevSquad Azure Red Hat OpenShift Accelerator</a></td>
+        </tr>
+        <tr>
+            <td>Deploy a <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">DevOps reference arquitecture</a></td>
+            <td><a href="https://github.com/oaviles/DevSquad/tree/main/DevOps_Wizard">DevSquad DevOps Accelerator</a></td>
+        </tr>
+        <tr>
+            <td>Deploy a <a href="https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/iot">IoT reference arquitecture</a></td>
+            <td><a href="https://github.com/luisruval/DevSquad-IoT">DevSquad IoT Accelerator</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://docs.microsoft.com/en-us/learn/modules/intro-to-java-azure/5-deployment-opportunities">Build or Migrate Java Web Apps</a></td>
+            <td><a href="https://github.com/oaviles/hello_java">DevSquad Java on Azure Accelerator</a></td>
+        </tr>
+        <tr>
+            <td>DevSquad DataOps</td>
+            <td>In this workshop, you will deploy a DataOps reference arquitecture, for understanding best practices of Data Engineering & Software Engineering combined.</td>
+            <td>ARM Templates, Azure DevOps, Azure Data Factory, Azure Databricks</td>
+            <td><a href="https://github.com/microsoft/devsquad-in-a-day">DevSquad DataOps</a></td>
+        </tr>
+        <tr>
+            <td>DevSquad MLOps</td>
+            <td>In this workshop, you will deploy a MLOps reference arquitecture. It demostrates how apply the worflow in a sample project along with a CI/CD implementation for Azure DevOps.</td>
+            <td>ARM Templates, Azure DevOps, Azure Machine Learning</td>
+            <td><a href="https://github.com/microsoft/gps-data_ai-devsquad-mlops">DevSquad MLOps</a></td>
+        </tr>
+    </tbody>
+</table>
+
+                
 
 ## Contributing
 
