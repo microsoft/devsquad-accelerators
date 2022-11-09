@@ -66,13 +66,13 @@ Below is a summary list of the DevSquad Solution Accelerators:
             <td><a href="https://github.com/oaviles/hello_java">DevSquad Java on Azure Accelerator</a></td>
         </tr>
         <tr>
-            <td>DevSquad DataOps</td>
+            <td><b>DevSquad DataOps</b></td>
             <td>In this workshop, you will deploy a DataOps reference arquitecture, for understanding best practices of Data Engineering & Software Engineering combined.</td>
             <td>ARM Templates, Azure DevOps, Azure Data Factory, Azure Databricks</td>
             <td><a href="https://github.com/microsoft/devsquad-in-a-day">DevSquad DataOps</a></td>
         </tr>
         <tr>
-            <td>DevSquad MLOps</td>
+            <td><b>DevSquad MLOps</b></td>
             <td>In this workshop, you will deploy a MLOps reference arquitecture. It demostrates how apply the worflow in a sample project along with a CI/CD implementation for Azure DevOps.</td>
             <td>ARM Templates, Azure DevOps, Azure Machine Learning</td>
             <td><a href="https://github.com/microsoft/gps-data_ai-devsquad-mlops">DevSquad MLOps</a></td>
