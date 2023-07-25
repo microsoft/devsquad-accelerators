@@ -67,7 +67,7 @@ Below is a summary list of the DevSquad Solution Accelerators:
         </tr>
         <tr>
             <td><a href="https://learn.microsoft.com/en-us/training/paths/run-high-performance-computing-applications-azure/">Build and Run high-performance computing (HPC) applications on Azure</a></td>
-            <td><a href="https://github.com/oaviles/demo_batch">DevSquad Batch on Azure Accelerator</a></td>
+            <td><a href="https://github.com/oaviles/hello_batch">DevSquad Batch on Azure Accelerator</a></td>
         </tr>
         <tr>
             <td><b>DevSquad DataOps</b></td>
