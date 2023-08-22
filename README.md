@@ -28,8 +28,8 @@ Below is a summary list of the DevSquad Solution Accelerators:
     </thead>
     <tbody>
         <tr>
-            <td rowspan=10><b>DevSquad DevSecOps</b></td>
-            <td rowspan=10>In these workshops, you will learn how to build and deploy modern Cloud-Native apps based on reference arquitectures, supported by best practices of <a href="https://github.com/microsoft/code-with-engineering-playbook/blob/main/docs/ENG-FUNDAMENTALS-CHECKLIST.md">Software Engineering</a> and <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">Secure DevOps Practices</a>.  <br/>Reference architecture <a href="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">DevSecOps in Azure</a></td>
+            <td rowspan=11><b>DevSquad DevSecOps</b></td>
+            <td rowspan=11>In these workshops, you will learn how to build and deploy modern Cloud-Native apps based on reference arquitectures, supported by best practices of <a href="https://github.com/microsoft/code-with-engineering-playbook/blob/main/docs/ENG-FUNDAMENTALS-CHECKLIST.md">Software Engineering</a> and <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">Secure DevOps Practices</a>.  <br/>Reference architecture <a href="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">DevSecOps in Azure</a></td>
             <td>Infrastructure as code, reference architecture: <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code">DevSecOps for infrastructure as code (IaC)</a></td>
             <td><a href="https://github.com/oaviles/hello_iac">DevSquad IaC Accelerator</a></td>
         </tr>
@@ -68,6 +68,10 @@ Below is a summary list of the DevSquad Solution Accelerators:
         <tr>
             <td><a href="https://learn.microsoft.com/en-us/training/paths/run-high-performance-computing-applications-azure/">Build and Run high-performance computing (HPC) applications on Azure</a></td>
             <td><a href="https://github.com/oaviles/hello_batch">DevSquad Batch on Azure Accelerator</a></td>
+        </tr>
+        <tr>
+            <td><a href="https://learn.microsoft.com/en-us/azure/aks/workload-identity-overview">Build and Deploy App with Managed Identity on Azure Kubernetes Service</a></td>
+            <td><a href="https://github.com/oaviles/hello_workload-identity">DevSquad Workload Identity Accelerator</a></td>
         </tr>
         <tr>
             <td><b>DevSquad DataOps</b></td>
