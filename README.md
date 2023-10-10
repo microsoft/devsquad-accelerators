@@ -28,8 +28,12 @@ Below is a summary list of the DevSquad Solution Accelerators:
     </thead>
     <tbody>
         <tr>
-            <td rowspan=11><b>DevSquad DevSecOps</b></td>
-            <td rowspan=11>In these workshops, you will learn how to build and deploy modern Cloud-Native apps based on reference arquitectures, supported by best practices of <a href="https://github.com/microsoft/code-with-engineering-playbook/blob/main/docs/ENG-FUNDAMENTALS-CHECKLIST.md">Software Engineering</a> and <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">Secure DevOps Practices</a>.  <br/>Reference architecture <a href="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">DevSecOps in Azure</a></td>
+            <td rowspan=12><b>DevSquad DevSecOps</b></td>
+            <td rowspan=12>In these workshops, you will learn how to build and deploy modern Cloud-Native apps based on reference arquitectures, supported by best practices of <a href="https://github.com/microsoft/code-with-engineering-playbook/blob/main/docs/ENG-FUNDAMENTALS-CHECKLIST.md">Software Engineering</a> and <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">Secure DevOps Practices</a>.  <br/>Reference architecture <a href="https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-in-github">DevSecOps in Azure</a></td>
+            <td>Build an enterprise-grade conversational bot powered by Azure Open AI, reference architecture: <a href="https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/conversational-bot">Enterprise Chat Bot powered by Azure Open AI</a></td>
+            <td><a href="https://github.com/oaviles/hello_openaibot">DevSquad Open AI Bot Accelerator</a></td>
+        </tr>
+        <tr>
             <td>Infrastructure as code, reference architecture: <a href="https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/devsecops-infrastructure-as-code">DevSecOps for infrastructure as code (IaC)</a></td>
             <td><a href="https://github.com/oaviles/hello_iac">DevSquad IaC Accelerator</a></td>
         </tr>
