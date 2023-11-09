@@ -23,7 +23,7 @@ Below is a summary list of the DevSquad Solution Accelerators:
             <th>Name</th>
             <th>Description</th>
             <th>Services or Architecture Reference</th>
-            <th>Link</th>
+            <th>Accelerator URL</th>
         </tr>
     </thead>
     <tbody>
